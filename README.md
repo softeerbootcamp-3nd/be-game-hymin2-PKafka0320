@@ -1,1 +1,3 @@
-# be-game-hymin2-PKafka0320
+# 오목
+
+## 기능 명세서
